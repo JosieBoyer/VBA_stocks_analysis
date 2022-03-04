@@ -26,7 +26,7 @@
 ## Results
 
 ### Original Code
-![ORIGINAL_CODE](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/full_original_code.PNG)
+![ORIGINAL_CODE](https://github.com/Josie-Boyer/stocks-analysis/blob/main/original%20code%20stocks.png)
 
 ### Results of Original Code
 
