@@ -41,22 +41,22 @@
 
 - Introduction of a "tickerIndex" variable and 3 output arrays to our subroutine helped avoid nested "For Loops" in our code:
 
-![tickerIndex_variable](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/steps1a_1b.PNG)
+![tickerIndex_variable](https://github.com/Josie-Boyer/stocks-analysis/blob/main/introticker.png)
   
 - Our tickerVolume variable would be reset to 0 before each loop:
 
-![tickerVolume_zero](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/steps2a_2b.PNG)
+![tickerVolume_zero](https://github.com/Josie-Boyer/stocks-analysis/blob/main/tickervolume.png)
 
 - The tickerIndex could then be referenced as a qualifier in the operating formulas:
 
-![increase_tickerVolume](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/steps3a_3b_3c_3d.PNG)
+![increase_tickerVolume](https://github.com/Josie-Boyer/stocks-analysis/blob/main/tickerindex.png)
 
 - And then finally referenced by all three of our output arrays:
 
-![output_arrays](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/steps4.PNG)
+![output_arrays](https://github.com/Josie-Boyer/stocks-analysis/blob/main/output%20arrays.png)
 
 ## Runtimes of Refactored Code
-![refactored_runtime_galleries](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/refactored_runtime_gallery.png)
+![refactored_runtime_galleries](https://github.com/Josie-Boyer/stocks-analysis/blob/main/runtimes.png)
 
 ### Analysis of Refactored Code
 
@@ -71,4 +71,4 @@
 - In this case, the benefits of using our original code are minimal next to the vastly shortened runtime of the refactored code.  While the original code adds some additional formatting, color, and one additional decimal place as a measure of precision, the refactored code will process almost 10x the amount of data in the same runtime.  However, Steve's parent's may prefer the friendly, colorful formatting, and transposing those conditions to the refactored code should create a negligible difference in runtime.
 
 ### Refactored Code (Full Updated Script)
-![full_refactored_macro](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/full_refactored_code.PNG)
+![full_refactored_macro](https://github.com/Josie-Boyer/stocks-analysis/blob/main/full%20updated.png)
