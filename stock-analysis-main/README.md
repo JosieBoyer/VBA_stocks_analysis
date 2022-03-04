@@ -30,7 +30,7 @@
 
 ### Results of Original Code
 
-![ORIGINAL_RUNTIMES](https://github.com/ZeroDarkHardy/stock-analysis/blob/main/Resources/original_runtime_gallery.png)
+![ORIGINAL_RUNTIMES](https://github.com/Josie-Boyer/stocks-analysis/blob/main/results%20stocks.png)
 - We can see from our analysis of this sample of stocks that Steve's parents may not have picked a winner in DQ.  While almost all of the stocks in our sample had positive returns in 2017, only two showed positively in 2018 (ENPH and RUN both showed net returns of over 80%).  At the very least, a visual representation of the volitility of this sector of the market should convince our client's parents to diversity their positions.
 
 ### Analysis of Original Code
